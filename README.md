@@ -1,6 +1,6 @@
 🌐 **While e Do While**
 ---
-O **While** e o **Do While** são estruturas de repetição condicionais utilizadas quando não se sabe antecipadamente o número exato de repetições, ou quando a repetição depende de uma condição que só é verificada durante a execução do programa. :contentReference[oaicite:1]{index=1}
+O **While** e o **Do While** são estruturas de repetição condicionais utilizadas quando não se sabe antecipadamente o número exato de repetições, ou quando a repetição depende de uma condição que só é verificada durante a execução do programa.
 
 📌 Objetivo do Projeto: 
 ---
@@ -10,10 +10,11 @@ O objetivo deste projeto é demonstrar a estrutura básica de um site e a organi
 ---
 - HTML5 – Estrutura das páginas
 - JavaScript – Interatividade e comportamento dinâmico
+- *(O projeto não utiliza CSS externo além do básico, focando na lógica principal.)*
 
 📁 Estrutura do Projeto:
 ---
-For/ │ ├── index.html
+While-Do_While/ │ ├── index.html
 
 ▶️ Como Executar o Projeto:
 ---
