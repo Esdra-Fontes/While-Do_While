@@ -1,4 +1,4 @@
-🌐 **While e Do While**
+🌐 While e Do While:
 ---
 O **While** e o **Do While** são estruturas de repetição condicionais utilizadas quando não se sabe antecipadamente o número exato de repetições, ou quando a repetição depende de uma condição que só é verificada durante a execução do programa.
 
