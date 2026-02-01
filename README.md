@@ -17,14 +17,15 @@ For/ │ ├── index.html
 
 ▶️ Como Executar o Projeto:
 ---
-- Clone este repositório: git clone https://github.com/Esdra-Fontes/For.git
+- Clone este repositório: git clone https://github.com/Esdra-Fontes/While-Do_While.git
 - Acesse a pasta do projeto
 - Abra o arquivo index.html em qualquer navegador web
 
 📚 Aprendizados:
 ---
 - Estruturação semântica com HTML
-- Manipulação básica do DOM com JavaScript
+- Uso de laços condicionais (while e do while) em JavaScript
+- Manipulação básica do DOM
 - Boas práticas na organização de projetos web
 
 👤 Autor: Esdra Fontes
